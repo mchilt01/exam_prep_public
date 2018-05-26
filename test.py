@@ -1,0 +1,2 @@
+x = 'poo'
+print(x)
